@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nz-flag {
+  height:400px;
+  width:49%;
+  margin: 0;
+  background:blue;
+  position: relative;
+  font-size: 10rem;
+  display: inline-block;
+}
+.indiaFlag {
+  height:400px;
+  width:49%;
+  float: right;
+  margin-top: 0px;
+  display: inline-block;
+}
+.fas{
+  color:red;
+  font-size:40px;
+  -webkit-text-fill-color: red;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  /* border: 2px solid white; */
+}
+.star1{
+  color: red;
+  position: absolute;
+  top: 150px;
+  right: 200px;
+}
+.star2{
+  color: red;
+  position: absolute;
+  top: 220px;
+  left: 490px;
+}
+.star3{
+  color: red;
+  position: absolute;
+  bottom: 45px;
+  right: 200px;
+}
+.star4{
+  color: red;
+  position: absolute;
+  bottom: 150px;
+  right: 120px;
+}
+.uj{
+  margin: 0;
+  width: 400px;
+  height: 200px;
+}
+.btn{
+  padding: 10px;
+  margin: 5.5em auto;
+  border: 2px solid #555;
+  /* outline: none; */
+  width: 200PX;
+  height: 75px;
+  display:block;
+  font-size: 25px;
+  color: blue;
+  cursor: pointer;
+}
+
+  .btn:hover{
+  background: black;
+  color: white;
+}
+
+.orange{
+  width:800px;
+  height: 133.33px;
+  background: orange;
+}
+.white{
+  width:800px;
+  height: 133.33px;
+  background: white;
+}
+
+.green{
+  width:800px;
+  height: 133.33px;
+  background: green;
+}
+
+img{
+  width: 150px;
+  height: 130px;
+  display: block;
+  margin: auto;
+}
